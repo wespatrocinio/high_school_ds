@@ -1,13 +1,21 @@
-# Data Science usando matem·tica do Ensino MÈdio
+# Data Science usando matem√°tica do Ensino M√©dio
 
-Todos ouvimos nos ˙ltimos meses alguma notÌcia envolvendo Data Science como a profiss„o do momento, e de phDs,
-acadÍmicos e experts da ·rea sendo muito valorizados. Entretanto, vocÍ sabia que È possÌvel fazer um conjunto
-razo·vel de aplicaÁıes usando apenas matem·tica do Ensino MÈdio?
+Todos ouvimos nos √∫ltimos meses alguma not√≠cia envolvendo Data Science como a profiss√£o do momento, e de phDs,
+acad√™micos e experts da √°rea sendo muito valorizados. Entretanto, voc√™ sabia que √© poss√≠vel fazer um conjunto
+razo√°vel de aplica√ß√µes usando apenas matem√°tica do Ensino M√©dio?
 
-## Que matem·tica È essa?
+## Que matem√°tica √© essa?
 
-Vou dar alguns exemplos de aplicaÁıes que usam apenas os seguintes conceitos matem·ticos:
+Vou dar alguns exemplos de aplica√ß√µes que usam apenas os seguintes conceitos matem√°ticos:
 
 - Produto escalar entre vetores (cosseno)
-- Dist‚ncia Euclidiana entre dois pontos
-- LogarÌtimo
+- Dist√¢ncia Euclidiana entre dois pontos
+- Logar√≠timo
+
+## E de que aplica√ß√µes voc√™ est√° falando?
+
+Os exemplos de aplica√ß√µes s√£o simples tamb√©m, por√©m sua simplicidade n√£o pode significar seu poder! As aplica√ß√µes s√£o:
+
+- Sistema de recomenda√ß√µes
+- Compara√ß√£o (matching) de documentos
+- Classifica√ß√£o de elementos
